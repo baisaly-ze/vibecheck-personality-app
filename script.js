@@ -92,7 +92,7 @@ const personalities = {
     },
     "Dreamer": {
         title: "The Main Character",
-         description: "You don’t just live life… you *imagine edits for it* while it’s happening.",
+         description: "You don’t just live life — you tend to replay it in your head while it’s happening.",
         realityCheck: "Life is not a movie scene. Stop waiting for background music.",
         strengths: ["Crazy imagination", "Sees possibilities everywhere", "Vibes hard with their own world"],
         weaknesses: ["Escapes reality a bit too easily", "Starts 10 ideas, finishes 0", "Gets lost in thoughts mid-convo"],
